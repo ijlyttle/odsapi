@@ -1,0 +1,16 @@
+Package: odsapi
+Title: Access the 'OpenDataSoft' API v2.0
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Ian",
+           family = "Lyttle",
+           role = c("aut", "cre"),
+           email = "ian.lyttle@schneider-electric.com",
+           comment = c(ORCID = "0000-0001-9962-4849"))
+Description: Wraps the version-2 API to 'OpenDataSoft' 
+  <https://www.opendatasoft.com> web-services.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
